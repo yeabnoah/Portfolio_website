@@ -3,12 +3,12 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 
 export const DATA = {
   name: "yeabsra Ashebir",
-  initials: "DV",
+  initials: "YA",
   url: "https://dillion.io",
-  location: "San Francisco, CA",
-  locationLink: "https://www.google.com/maps/place/sanfrancisco",
+  location: " Addis Ababa, Ethiopia",
+  locationLink: "https://maps.app.goo.gl/SDaUMo2GCskmfuuH7",
   description:
-    "Junior Fullstack developer. I love building things and share them on the internet.",
+    "Intermediate Fullstack developer. I love building things and share them on the internet.",
   summary:
     "I am a Junior Full stack web and mobile developer with experience of working in a Typescript ecosystem. I use various technologies to build scaleable, fast and efficient software that satisfy the need of companies and client's. I like working in the challenging enviroment where i get to learn and grow as a professional while bringing a value to a company. ",
   avatarUrl: "/me.jpg",
@@ -31,6 +31,14 @@ export const DATA = {
     "Socket.io",
     "TailwindCSS",
     "Nest.JS",
+    "AWS",
+    "GCP",
+    "Cloudflare",
+    "Redis",
+    "socketIo",
+    "Monorepos",
+    "serverless Backend",
+    "GRPC",
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
@@ -348,7 +356,7 @@ export const DATA = {
       links: [],
     },
     {
-      title: "Building an AI powered second brain App",
+      title: "Building an AI powered Book Mark Manager",
       dates: "Started 2 weeks ago",
       location: "active",
       description:
@@ -358,11 +366,23 @@ export const DATA = {
       links: [],
     },
     {
-      title: "Finishing migration of Nerdspace project",
-      dates: "stopped 1.6 years ago",
-      location: "sometimes",
+      title:
+        "Researching to Build an application building AI agent ( kinda like bolt.new )",
+      dates: "Started this week",
+      location: "pending",
       description:
-        "building an app that will act as a second brain for peoples to help memorize query over all the memories and chat with the ai",
+        "building an app that will help anyone build apps by just prompting and conversation. this is teaching me a lot like how toknization works, embedings, LLMS, it also gave me interest to learn more about stuff like agents.",
+      image: "",
+      mlh: "",
+      links: [],
+    },
+    {
+      title:
+        "Building in real life version of manHunt game with ReactNative and Golang",
+      dates: "started this week",
+      location: "3 days in a week",
+      description:
+        "I am building this to work more with maps, microservices and also Golang. I also stream building this app in public while learning it at the same time.",
       image: "",
       mlh: "",
       links: [],
