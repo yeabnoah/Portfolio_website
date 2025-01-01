@@ -171,6 +171,38 @@ export const DATA = {
   ],
   projects: [
     {
+      title: "Linksy",
+      href: "https://linksy1.vercel.app/",
+      dates: "January 01 2025",
+      active: true,
+      description:
+        "Linksy : is an open-source bookmark and link manager that enables users to organize and manage their social media posts and other links. ",
+      technologies: [
+        "Next.js",
+        "Typescript",
+        "Better Auth",
+        "Prisma",
+        "PostgreSQL",
+        "Better Auth",
+        "TailwindCSS",
+        "Shadcn UI",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://linksy1.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/yeabnoah/linksy",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/linksy.webp",
+      video: "",
+    },
+    {
       title: "UP-Start Studio",
       href: "https://up-start-studio-4bqe.vercel.app/",
       dates: "October 2024",
