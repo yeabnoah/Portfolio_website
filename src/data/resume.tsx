@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Intermediate Fullstack developer. I love building things and share them on the internet.",
   summary:
-    "I am a Junior Full stack web and mobile developer with experience of working in a Typescript ecosystem. I use various technologies to build scaleable, fast and efficient software that satisfy the need of companies and client's. I like working in the challenging enviroment where i get to learn and grow as a professional while bringing a value to a company. ",
+    "I am a Intermediate Full stack web and mobile developer with experience of working in a Typescript ecosystem. I use various technologies to build scaleable, fast and efficient software that satisfy the need of companies and client's. I like working in the challenging enviroment where i get to learn and grow as a professional while bringing a value to a company. ",
   avatarUrl: "/me.jpg",
   skills: [
     "React",
